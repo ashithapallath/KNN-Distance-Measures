@@ -65,6 +65,6 @@ For other datasets:
 
 ## How to Run the Code
 1. Install dependencies: `pip install numpy pandas scikit-learn`
-2. Run the Python script: `python knn_distance_comparison.py`
+2. Run the Python script: `python DistanceMeasures.py`
 
 
